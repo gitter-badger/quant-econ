@@ -1,6 +1,8 @@
 
 ## Quantitative Economics 
 
+[![Join the chat at https://gitter.im/28ideas/quant-econ](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/28ideas/quant-econ?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository collects code for [Quantitative Economics](http://quant-econ.net),  an on-line course on quantitative economic modeling authored by [Thomas J. Sargent](https://files.nyu.edu/ts43/public/) and [John Stachurski](http://johnstachurski.net).
 
 We recommend you start by visiting the [lecture series main page](http://quant-econ.net), which provides detailed information on working with this code repository.
